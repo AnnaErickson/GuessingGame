@@ -1,0 +1,10 @@
+body{
+  background-color: whitesmoke;
+  
+}
+form{
+  background-color: gainsboro;
+  padding: .5 in;
+  margin: .25in;
+  border: 1rem gray;
+}
