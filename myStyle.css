@@ -8,3 +8,9 @@ form{
   margin: .25in;
   border: 1rem gray;
 }
+
+table{
+  background-color: red;
+  padding: .5 in;
+  border: 1rem black;
+}
