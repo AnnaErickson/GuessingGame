@@ -1,16 +1,19 @@
 body{
-  background-color: whitesmoke;
-  
+  background-color: cadetblue;
+
 }
 form{
-  background-color: gainsboro;
+  background-color: floralwhite;
   padding: .5 in;
   margin: .25in;
   border: 1rem gray;
 }
 
 table{
-  background-color: blueviolet;
-  padding: .5 in;
+  background-color: teal;
+  padding: 5 in;
   border: 1rem black;
+}
+*{
+  text-align: center;
 }

@@ -58,9 +58,9 @@ function guessingGame(){
     gamesDom.value = parseInt(gamesDom.value) + 1;
     yesDom.focus();
   }
-  
+  //Avg guesses and total games
   function getBest(count){
-    const check = parseInt(bestDom.value);
+   const check = parseInt(bestDom.value);
     if(check === 0 || count < check) return count;
     else return check;
   }
