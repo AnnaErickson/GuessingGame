@@ -1,18 +1,20 @@
 body{
-  background-color: cadetblue;
+  background-color: #616161;
 
 }
 form{
   background-color: floralwhite;
   padding: .5 in;
   margin: .25in;
-  border: 1rem gray;
+ 
 }
 
-table{
+.center{
+  margin-left: auto;
+  margin-right: auto;
   background-color: teal;
   padding: 5 in;
-  border: 1rem black;
+
 }
 *{
   text-align: center;
